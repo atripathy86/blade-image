@@ -163,6 +163,8 @@ from your local machine.  You should see the text "Virtual CD boot Requested by 
 
 #### HPE Blade Hardware
 
+Bla Bla 
+
 #### Virtual Machine
 
 It is possible to flash a virtual machine compatible ISO (build using the [VM build option](#vm_build)). The following are the instructions (using [VirtualBox](https://www.virtualbox.org/)) to configure your virtual machine.
